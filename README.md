@@ -1,4 +1,4 @@
 # bio-inspired
 
 
-This work will focus on the bio-inspired algorithms
+This work will focus on the bio-inspired algorithms.
